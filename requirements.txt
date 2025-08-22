@@ -1,0 +1,8 @@
+tensorflow
+tensorflow-probability
+numpy
+scipy
+re
+matplotlib
+pandas
+scikit-learn
